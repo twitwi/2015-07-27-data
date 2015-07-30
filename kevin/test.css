@@ -1,0 +1,31 @@
+p {
+  color: blue;
+  font-size: 20pt;
+}
+
+.red {
+  color: #FF8080;
+  background-color: rgb(20, 20, 80);
+}
+
+p.red {
+  font-weight: 800;
+  background-color: yellow;
+}
+
+#MySpecialDiv {
+  border: 1px solid black;
+  font-family: Helvetica, Arial, sans-serif;
+  padding: 5px; /* symmetrical for all sides*/
+  margin: 5px 10px 20px 40px; /* top right bottom left */
+  margin-top: 100px;
+}
+
+h1 {
+  font-size: 100px;
+  text-align: center;
+}
+
+img {
+  max-width: 300px;
+}
