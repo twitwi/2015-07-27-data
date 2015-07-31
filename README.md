@@ -17,5 +17,5 @@ View the contribution graph at: <https://github.com/twitwi/2015-07-27-data/netwo
 
 The index.md file has been generated with:
 
-    find -name \*.html | awk '{print "- <" $0 ">"}' > index.md
+    find -name \*.html | awk '{print "- <a href=" $0 ">" $0 "</a>"}' > index.md
     pandoc index.md  -t html --standalone -o index.html    

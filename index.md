@@ -1,7 +1,8 @@
-- <./do/test.html>
-- <./ed/test1.html>
-- <./benjamin/test.html>
-- <./remi/graph.html>
-- <./kevin/test.html>
-- <./ignacio/graph.html>
-- <./ignacio/test.html>
+- <a href=./do/test.html>./do/test.html</a>
+- <a href=./index.html>./index.html</a>
+- <a href=./ed/test1.html>./ed/test1.html</a>
+- <a href=./benjamin/test.html>./benjamin/test.html</a>
+- <a href=./remi/graph.html>./remi/graph.html</a>
+- <a href=./kevin/test.html>./kevin/test.html</a>
+- <a href=./ignacio/graph.html>./ignacio/graph.html</a>
+- <a href=./ignacio/test.html>./ignacio/test.html</a>
