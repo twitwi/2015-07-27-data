@@ -7,4 +7,5 @@ Data repository for the 2015-07-27-cern-webfest software carpentry workshop.
 
 View you creations at: <http://twitwi.github.io/2015-07-27-data/>
 
+View the contribution graph at: <https://github.com/twitwi/2015-07-27-data/network>
 
