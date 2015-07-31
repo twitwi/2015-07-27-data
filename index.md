@@ -1,0 +1,7 @@
+- <./do/test.html>
+- <./ed/test1.html>
+- <./benjamin/test.html>
+- <./remi/graph.html>
+- <./kevin/test.html>
+- <./ignacio/graph.html>
+- <./ignacio/test.html>

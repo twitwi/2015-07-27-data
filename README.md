@@ -9,3 +9,13 @@ View you creations at: <http://twitwi.github.io/2015-07-27-data/>
 
 View the contribution graph at: <https://github.com/twitwi/2015-07-27-data/network>
 
+
+
+
+
+
+
+The index.md file has been generated with:
+
+    find -name \*.html | awk '{print "- <" $0 ">"}' > index.md
+    
